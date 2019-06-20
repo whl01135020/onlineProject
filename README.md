@@ -1,2 +1,6 @@
 # 项目地址
-* 五子棋小游戏h5: http://www.hongliwang.xyz/gobang/
+
+* 五子棋小游戏(h5):http://www.hongliwang.xyz/gobang/
+* 贪吃蛇小游戏(微信小程序):
+
+![img](https://github.com/whl01135020/snake-wx/blob/master/images/snake.jpg)
